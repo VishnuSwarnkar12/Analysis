@@ -81,13 +81,13 @@ requirements.txt
 Clone the repository
 
 ```bash
-git clone https://github.com/VishnuSwarnkar12/Crypto-Market-Sentiment-Analysis.git
+git clone https://github.com/VishnuSwarnkar12/Analysis.git
 ```
 
 Move into the project
 
 ```bash
-cd Crypto-Market-Sentiment-Analysis
+cd Analysis
 ```
 
 Install dependencies
