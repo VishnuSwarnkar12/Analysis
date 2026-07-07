@@ -66,8 +66,7 @@ Contains:
 ## Repository Structure
 
 ```
-data/
-output/
+Dataset/
 analysis.ipynb
 README.md
 summary.md
