@@ -81,7 +81,7 @@ requirements.txt
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Crypto-Market-Sentiment-Analysis.git
+git clone https://github.com/VishnuSwarnkar12/Crypto-Market-Sentiment-Analysis.git
 ```
 
 Move into the project
